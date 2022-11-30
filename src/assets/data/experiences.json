@@ -2,60 +2,55 @@
     {
         "id": 1,
         "position": 1,
-        "startAt": "02-02-2009",
-        "endAt": "12-24-2010",
-        "companyName": "Fácil Tecnologias",
-        "website": "http://www.faciltecnologias.com.br/",
-        "logo": "assets/template/experience/logo/facil-logo.png",
+        "startAt": "01-01-2015",
+        "endAt": "04-01-2018",
+        "companyName": "SIAT Informática",
+        "website": "http://siat.com.br/",
+        "logo": "assets/template/experience/logo/siat-logo.png",
         "internationalizations": [
             {
                 "language": "pt",
-                "city": "Uberaba",
+                "city": "Belo Horizonte",
                 "country": "Brasil",
-                "role": "Estágio Webmaster",
-                "description": "A <b>Fácil Tecnologias LTDA</b> é uma empresa focada em soluções para educação, seu principal produto é um conjunto de soluções para estudos na obtenção da <i>carteira nacional de habilitação (CNH)</i>, entre elas, multimídias, aplicativos on-line, aplicativos móveis, livros, entre outros. <br><br>Na <i>Fácil Tecnologias LTDA</i>, entrei em contato com desenvolvedores seniores, aprendendo as melhores práticas, padrões e como debater idéias e oferecer soluções diversas para o mesmo problema. Foi o ponto de partida, uma oportunidade única de transformar o conhecimento teórico em soluções concretas que estavam sendo usadas por centenas de pessoas todos os dias."
+                "role": "Analista de sistemas e desenvolvedor .net",
+                "description": "A <b>SIAT Informática LTDA</b> é uma empresa focada em soluções logísticas, seu principal produto é um <i>ERP integrado</i>, que fornece controle total da empresa como financeiro, inventório, roteirização, fiscal, contábil. <br><br>Na <i>SIAT Informática LTDA</i>, entrei em contato com desenvolvedores seniores, aprendendo as melhores práticas, padrões e como debater idéias e oferecer soluções diversas para o mesmo problema. Foi o ponto de partida, uma oportunidade única de transformar o conhecimento teórico em soluções concretas que estavam sendo usadas por centenas de pessoas todos os dias. Tive contato com aplicações WPF, ASPNET MVC, WebAPI's, serviços windows, aplicações mobile usando flutter/dart, contato com banco de dados Microsoft SQL."
             },
             {
                 "language": "en",
-                "city": "Uberaba",
+                "city": "Belo Horizonte",
                 "country": "Brazil",
-                "role": "Webmaster intern",
-                "description": "<b>Fácil Tecnologias LTDA</b> is a company focused in solutions for education, its main product is a set of solutions for studying for getting the <i>driver license</i>, among them, there are multimedia, online applications, mobile apps, books, and others.<br><br>At <i>Fácil Tecnologias LTDA</i>, I got in touch with senior developers, learning best practices, patterns, and how to debate ideas and offer various solutions for the very same problem. It was the start point, a unique opportunity to turn theoretical knowledge into concrete solutions that were being used by hundreds of people every day."
+                "role": "SYSTEM ANALYST AND .NET DEVELOPER",
+                "description": "<b>SIAT Informática LTDA</b> is a company focused on logistics solutions, its main product is an <i>integrated ERP</i>, which provides total control of the company such as finance, inventory, routing, tax, accounting . <br><br>At <i>SIAT Informática LTDA</i>, I got in touch with senior developers, learning best practices, patterns and how to debate ideas and offer different solutions for the same problem. It was the starting point, a unique opportunity to transform theoretical knowledge into concrete solutions that were being used by hundreds of people every day. I had contact with WPF applications, ASPNET MVC, WebAPI's, windows services, mobile applications using flutter/dart, contact with MS SQL database."
             }
         ],
         "technologies": [
-            "PHP", "Zend Framework", "Cake Framework", "HTML", "CSS", "CSS3", "Javascript", "jQuery", "AJAX", "SOAP", "Joomla", "Wordpress", "SVN", "SQL", "MySQL", "PostgreSQL", "Windows"
+            "C#", ".NET", "Entity Framework", "IIS", "Dart", "Flutter", "WPF", "SOAP", "WebAPI", "Wordpress", "Azure Devops", "SQL", "Windows"
         ],
         "medias": [
-            {
-                "icon": "facebook",
-                "title": "Facebook Editora Nosso Trânsito",
-                "http": "https://www.facebook.com/editoranossotransito/"
-            }
         ],
-        "backgroundUrl": "assets/template/experience/uberaba.jpg"
+        "backgroundUrl": "assets/template/experience/bh.jpg"
     },
     {
         "id": 2,
         "position": 2,
-        "startAt": "01-03-2011",
-        "endAt": "06-16-2014",
-        "companyName": "E-tática",
-        "website": "https://www.e-tatica.com/",
-        "logo": "assets/template/experience/logo/etatica-logo.png",
+        "startAt": "04-01-2018",
+        "endAt": "12-01-2020",
+        "companyName": "Reply",
+        "website": "https://www.reply.com/br/",
+        "logo": "assets/template/experience/logo/reply-logo.png",
         "internationalizations": [
             {
                 "language": "pt",
-                "city": "Rio de Janeiro",
+                "city": "Belo Horizonte",
                 "country": "Brasil",
-                "role": "Desenvolvedor Full-stack",
+                "role": "DESENVOLVEDOR .NET",
                 "description": "A <b>E-tática</b> é uma agência especializada em soluções para <i>comércio eletrônico</i>, marketing digital e identidade visual desde 2008, trabalhando com grandes, pequenos e médios negócios, oferecendo para seus clientes, o know-how na integração de seus negócios com <i>Sistemas integrados de gestão empresarial (ERP)</i> e <i>APIs de terceiros</i>, tais como <i>provedores de pagamento personalizados</i>, fazendo a integração do gerenciamento interno da plataforma on-line e da loja física, sendo certificada pelas principais plataformas do mercado.<br><br>Na <i>E-tática </i>, trabalhei para desenvolver soluções personalizadas para clientes do atacado e varejo, valorizando a qualidade e a continuidade dos projetos a médio e longo prazo."
             },
             {
                 "language": "en",
-                "city": "Rio de Janeiro",
+                "city": "Belo Horizonte",
                 "country": "Brazil",
-                "role": "Full-stack Developer",
+                "role": ".NET DEVELOPER",
                 "description": "<b>E-tática</b> is an agency specialized in solutions for <i>e-commerce</i>, digital marketing, and visual identity since 2008, working with large, small, and medium-sized businesses, offering to their clients the know-how in the integration of <i>enterprise resource planning (ERP)</i> and <i>third-party APIs</i>, such as custom <i>payment providers</i>. It does the integration of the internal management of the online platform and physical store, being certified by the main platforms in the market.<br><br>At <i>E-tática</i> I have worked to develop custom solutions for clients wholesale and retail, valuing the quality and continuity of projects in the medium and long term."
             }
         ],
@@ -63,45 +58,30 @@
             "Magento 1.X", "PHP", "Zend Framework", "HTML", "CSS", "CSS3", "Javascript", "jQuery", "SOAP", "Wordpress", "SVN", "Payment Services", "SSH", "SSL", "Linux"
         ],
         "medias": [
-            {
-                "icon": "linkedin",
-                "title": "LinkedIn E-tática",
-                "http": "https://www.linkedin.com/company/etatica/"
-            },
-            {
-                "icon": "facebook",
-                "title": "Facebook E-tática",
-                "http": "https://www.facebook.com/etatica/"
-            },
-            {
-                "icon": "instagram",
-                "title": "Instagram E-tática",
-                "http": "https://www.instagram.com/somos_etatica/"
-            }
         ],
-        "backgroundUrl": "assets/template/experience/rio.jpg"
+        "backgroundUrl": "assets/template/experience/bh.jpg"
     },
     {
         "id": 3,
         "position": 3,
-        "startAt": "07-01-2014",
-        "endAt": "12-23-2016",
-        "companyName": "Deevo Studio",
-        "website": "http://deevo.com.br/",
-        "logo": "assets/template/experience/logo/deevo-logo.png",
+        "startAt": "02-01-2020",
+        "endAt": "02-01-2021",
+        "companyName": "Squadra",
+        "website": "https://www.squadra.com.br/",
+        "logo": "assets/template/experience/logo/squadra-logo.png",
         "internationalizations": [
             {
                 "language": "pt",
                 "city": "São Paulo",
                 "country": "Brasil",
-                "role": "Desenvolvedor Mobile",
+                "role": "DESENVOLVEDOR .NET SENiOR",
                 "description": "A <b>Deevo Studio</b> é uma agência especializada em <i>web design</i> e <i>desenvolvimento</i> com um extenso portfólio de casos de sucesso, resultado de mais de <i>20 anos</i> de experiência com diversas agências e no mercado corporativo. Suas criações envolvem tudo, desde o desenvolvimento da marca e identidade visual, até a criação de aplicativos e sites, com um amplo conhecimento do Wordpress e das tecnologias da web. <br><br>Na <i>Deevo Studio</i>, tive a chance de usar o conhecimento anterior de <i>back-end</i> combinado com a experiência prática no desenvolvimento JAVA para aceitar o desafio de iniciar um <i>Departamento de Desenvolvimento Android</i> na empresa, fornecendo complexos <i>Aplicativos Android</i> para empresas no Brasil."
             },
             {
                 "language": "en",
                 "city": "São Paulo",
                 "country": "Brazil",
-                "role": "Mobile Developer",
+                "role": "SENiOR .NET DEVELOPER ",
                 "description": "At <b>Deevo Studio</b> is a company specializing in <i>web design</i> and <i>development</i> with an extensive portfolio of cases, the result of <i>20 years</i> of experience with other agencies and the corporate market. Their creations involve everything from brand development and visual identity to the creation of applications and websites, with a wide knowledge of Wordpress and Web Technologies.<br><br>At <i>Deevo Studio</i>, I had the chance to use the previously back-end knowledge combined with practical experience in JAVA development to accept the challenge to start an <i>Android Development Department</i> in the company, delivering complex <i>Android Applications</i> to companies in Brazil."
             }
         ],
@@ -120,9 +100,9 @@
     {
         "id": 4,
         "position": 4,
-        "startAt": "01-02-2017",
-        "endAt": "11-30-2017",
-        "companyName": "Skydreamer",
+        "startAt": "01-02-2021",
+        "endAt": "01-02-2022",
+        "companyName": "F1 Solutions",
         "logo": "assets/template/experience/logo/skydreamer-logo.png",
         "internationalizations": [
             {
@@ -160,11 +140,10 @@
     {
         "id": 5,
         "position": 5,
-        "startAt": "12-18-2017",
-        "endAt": "04-15-2020",
-        "companyName": "QAT Global",
-        "website": "https://www.qat.com/",
-        "logo": "assets/template/experience/logo/qat-global-logo.png",
+        "startAt": "01-04-2022",
+        "companyName": "BairesDev",
+        "website": "https://www.bairesdev.com/",
+        "logo": "assets/template/experience/logo/bairesdev-logo.png",
         "internationalizations": [
             {
                 "language": "pt",
@@ -185,67 +164,7 @@
             "Java", "Spring Boot", "Play Framework", "Javascript", "jQuery", "AngularJS", "NoSQL", "MongoDB", "SQL", "PostgreSQL", "Unit Tests", "Integration Tests", "Versioning Control", "BitBucket", "Git", "Maven", "Scrum", "Linux"
         ],
         "medias": [
-            {
-                "icon": "linkedin",
-                "title": "LinkedIn QAT Global",
-                "http": "https://www.linkedin.com/company/qat/"
-            },
-            {
-                "icon": "facebook",
-                "title": "Facebook QAT Global",
-                "http": "https://www.facebook.com/QATGlobal/"
-            },
-            {
-                "icon": "youtube",
-                "title": "QAT Gobal Youtube",
-                "http": "https://www.youtube.com/c/QatGlobal-USA"
-            }
         ],
         "backgroundUrl": "assets/template/experience/uberaba.jpg"
-    },
-    {
-        "id": 6,
-        "position": 6,
-        "startAt": "05-01-2020",
-        "companyName": "Swisscom AG",
-        "website": "https://www.swisscom.ch/",
-        "logo": "assets/template/experience/logo/swisscom-logo.png",
-        "internationalizations": [
-            {
-                "language": "pt",
-                "city": "Rotterdão",
-                "country": "Países Baixos",
-                "role": "Engenheiro Full-stack",
-                "description": "<b>Swisscom</b> é a empresa <b>#1</b> de telecomunicações e uma das principais empresas de TI da Suíça. Seus produtos e serviços variam de soluções B2C, como a Swisscom TV, a soluções de TI B2B em vários setores, como Bancos, Saúde, Energia, Entretenimento e Publicidade.<br><br>Na <i>Swisscom DevOps Center</i>, inovação e experimentação estão profundamente enraizadas no DNA da empresa. O ambiente multicultural com 15 nacionalidades, somado à cultura de <i>Tribos/Esquadrões</i>, contribui para colocar nós, funcionários, como parte de uma equipe virtual internacional, especializada em DevOps, entre várias outras tecnologias de ponta."
-            },
-            {
-                "language": "en",
-                "city": "Rotterdam",
-                "country": "Netherlands",
-                "role": "Full-stack Engineer",
-                "description": "<b>Swisscom</b> is the <b>#1</b> telecommunications company and one of the leading IT companies in Switzerland. Its products and services range from B2C products, such as <i>Swisscom TV</i>, to B2B IT solutions in multiple industries, such as <i>Banking, Health, Energy, Entertainment, and Advertising</i>.<br><br>In the <i>Swisscom DevOps Center</i> innovation and experimenting are deeply rooted in the DNA of the company. The multicultural environment with 15 nationalities, and a <i>Tribe/Squad</i> culture, contribute to putting us, the employees, as part of an international virtual team, specialized in DevOps among various other top technologies."
-            }
-        ],
-        "technologies": [
-            "Java", "Spring Boot", "Angular", "Typescript", "Javascript", "SDX", "Versioning Control", "DevOps", "CI/CD", "JUnit", "Karma", "Jasmine", "Selenium", "Jenkins", "Docker", "NPM", "Gradle", "Jira"
-        ],
-        "medias": [
-            {
-                "icon": "linkedin",
-                "title": "LinkedIn Swisscom",
-                "http": "https://www.linkedin.com/company/swisscom/"
-            },
-            {
-                "icon": "facebook",
-                "title": "Facebook Swisscom",
-                "http": "https://www.facebook.com/Swisscom"
-            },
-            {
-                "icon": "youtube",
-                "title": "Youtube Swisscom",
-                "http": "https://www.youtube.com/swisscom"
-            }
-        ],
-        "backgroundUrl": "assets/template/experience/rotterdam.jpg"
     }
 ]
