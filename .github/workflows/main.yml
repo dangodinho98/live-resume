@@ -37,7 +37,7 @@ jobs:
 
     - name: Download artifacts created at previous job
       if: success()
-      uses: actions/download-artifact@v1
+      uses: actions/download-artifact@v3.0.1
       with:
         name: deploy_dist
         path: dist
