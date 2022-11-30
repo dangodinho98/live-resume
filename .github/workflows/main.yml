@@ -19,7 +19,7 @@ jobs:
       with:
         node-version: 16
     - name: Install packages with NPM
-      run: npm install
+      run: npm install --force
     - name: Build for production
       run: npm run build -- --prod
     - name: Upload artifacts to be used in next job
