@@ -2,7 +2,7 @@ export const environment = {
   production: true,
   // replace the data below with your personal data
   personal: {
-    caricature: "gbastos-illustration@2x-mask.png",
+    caricature: "gbastos-illustration@2x.png",
     name: "Daniel Godinho Soares",
     birth: "1998-06-02",
     email: "dangodinho98@gmail.com",
